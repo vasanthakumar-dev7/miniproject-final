@@ -1,0 +1,36 @@
+# Web Backend (Flask)
+Flask>=3.1.0
+flask-cors>=6.0.0
+Werkzeug>=3.1.0
+requests>=2.34.0
+python-dotenv>=1.2.0
+
+# Multimodal RAG Engine & Framework
+raganything>=1.4.1
+lightrag-hku>=1.4.16
+mineru>=4.0.6
+
+# LangChain Ecosystem
+langchain>=1.4.2
+langchain-community>=0.4.2
+langchain-core>=1.6.4
+langchain-huggingface>=1.2.2
+langchain-text-splitters>=1.1.2
+
+# LLM & Embedding Integrations
+openai>=2.54.0
+sentence-transformers>=6.1.0
+torch>=2.14.0
+transformers>=5.17.0
+tiktoken>=0.14.0
+
+# Document & File Parsers
+pypdf>=6.19.0
+python-docx>=1.2.0
+openpyxl>=3.1.5
+pillow>=12.3.0
+pandas>=2.3.3
+pyyaml>=6.0.3
+beautifulsoup4>=4.15.0
+lxml>=6.1.3
+networkx>=3.7
